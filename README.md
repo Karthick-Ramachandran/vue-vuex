@@ -1,4 +1,4 @@
-# vue-imgr
+# vue-vuex
 
 ## Project setup
 ```
